@@ -5,7 +5,7 @@ O projeto deste repositório é um catálogo de e-commerce utilizando a API Dumm
 ![tela_produtos](https://github.com/user-attachments/assets/09efd774-c4af-4003-9459-6d5befd6e601)
 ![tela de produtos](https://github.com/user-attachments/assets/bfaaa73e-af54-434d-a0ad-7fdfc0630c28)
 
-O projeto consiste em uma tela incial que apresenta alguns produtos do e-comerce e a opção de pagição para poder ir percorrendo as páginas e produtos. 
+O projeto consiste em uma tela incial que apresenta alguns produtos do e-comerce e a opção de paginação para poder ir percorrendo as páginas e produtos. 
 
 
 No topo tem a "categoria" onde é possível filtrar os produtos da api por categoria e a lupa para realizar a busca dos produtos pelo nome em tempo real.
