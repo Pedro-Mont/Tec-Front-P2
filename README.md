@@ -19,3 +19,7 @@ Apetando em um produto o usuário é direcionado a tela do produto trazendo a de
 
 ![tela do produto](https://github.com/user-attachments/assets/95a8d38a-cf79-4af6-b793-55ae5df4d7e9)
 
+
+# Video Youtube
+
+https://youtu.be/QxgR0-6g9f0
